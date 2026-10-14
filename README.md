@@ -107,4 +107,3 @@ npm run verify:public
 <img src="docs/assets/contact/my-wechat-qr.jpg" alt="Cheng 微信二维码" width="320">
 
 本项目基于 Nana AI 的 [AI Self-Media Video Packaging Skill](https://github.com/zhouyuechuan2025-ui/ai-self-media-video-packaging-skill) 修改。原始版权声明见 [LICENSE](LICENSE)，第三方和标识说明见 [NOTICE](NOTICE)。本项目不是原作者的官方页面或服务。
-
